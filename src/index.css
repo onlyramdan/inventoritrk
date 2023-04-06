@@ -9,6 +9,7 @@ body {
   transition: 0.4s;
 }
 .buku {
-  width: 350px;
   margin-left: 300px;
+  margin-right: 30px;
+  margin-top: 2rem;
 }
