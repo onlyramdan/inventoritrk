@@ -1,0 +1,14 @@
+body {
+  background-color: lightgray !important;
+}
+.sidebar {
+  width: 250px;
+  height: 100vh;
+  position: fixed;
+  margin-left: -5px;
+  transition: 0.4s;
+}
+.buku {
+  width: 350px;
+  margin-left: 300px;
+}
